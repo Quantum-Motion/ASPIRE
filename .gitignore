@@ -1,0 +1,21 @@
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/build.log
+.julia/
+
+# Experiment output
+experiments/out/
+
+# Notebooks and Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Logs and system files
+*.log
+.DS_Store
+
+# Local copy of the circuit-compilation dependency
+/MPSCircuits/
