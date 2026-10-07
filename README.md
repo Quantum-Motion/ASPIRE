@@ -126,4 +126,4 @@ GNU Affero General Public License v3.0 (AGPL-3.0), see `LICENSE`.
 
 ## Citation
 
-If you use this code, please cite "Breaking the chain: geometry-native state preparation with ASPIRE".
+If you use this code, please cite "Breaking the chain: geometry-native state preparation with ASPIRE" ([arXiv:2610.03528](https://arxiv.org/abs/2610.03528)).
